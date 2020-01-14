@@ -8,6 +8,8 @@ instructions in java like this:
 Ring 1: Twist up 4 times 
 Ring 3: Twist down once
 Ring 4: Twist up or down 5 times
+
+Haven't completely finished, still need to shorten code and edit
 */
 import java.util.Scanner;
 import java.util.HashMap;
